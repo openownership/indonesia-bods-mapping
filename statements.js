@@ -153,7 +153,6 @@ function mapOwnershipOrControlStatement(companyStatement, personStatement, data,
       {
         type: 'other-influence-or-control',
         details: data['hubungan_bo'],
-        interestLevel: 'direct',
         beneficialOwnershipOrControl: true
       }
     ],
