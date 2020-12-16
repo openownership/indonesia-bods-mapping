@@ -1,7 +1,7 @@
 # Indonesia beneficial ownership data BODS mapping
 
 This repo is a short piece of code which gives an example of how you could map
-data from [Indonesia's beneficial ownership API](https://panduan.ahu.go.id/api/detail.php)
+data from [Indonesia's beneficial ownership API](https://panduan.ahu.go.id/api/)
 to the [Beneficial Ownership Data Standard](https://standard.openownership.org).
 
 To run it, you need [node.js](https://nodejs.org) installed, and then to do the
