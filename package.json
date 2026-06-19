@@ -18,7 +18,7 @@
   "license": "MIT",
   "dependencies": {
     "i18n-iso-countries": "^6.2.2",
-    "uuid": "^8.3.1",
+    "uuid": "^14.0.0",
     "xxhash": "^0.3.0"
   }
 }
